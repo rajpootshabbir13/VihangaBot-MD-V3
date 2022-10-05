@@ -71,12 +71,12 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Vihanga-YT`](https:/rajpootshabbir13/github.com/vihangayt0)
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
+* [`@adiwajshing/baileys`](https:/rajpootshabbir13/github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https:/rajpootshabbir13/github.com/Alien-Alfa)
+* [`DGXeon`](https:/rajpootshabbir13/github.com/DGXeon)
+* [`AflahXrd`](https:/rajpootshabbir13/github.com/nexusNw)
+* [`MR.Nima`](https:/rajpootshabbir13/github.com/DarkMakerofc)
+* [`EDM-OFFICIAL`](https:/rajpootshabbir13/github.com/edm-official)
